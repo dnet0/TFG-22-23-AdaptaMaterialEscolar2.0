@@ -1,10 +1,12 @@
 # Proyecto TFG – AdaptaMaterialEscolar 2.0
 
-**Proyecto desarrollado en colaboración con**  
-[Gómez Sittima, Álvaro](#) · [Namour Doughani, Dunia](#) · [Rivas Fernández, Alberto Alejandro](#)  
+**Proyecto desarrollado por**  
+[Gómez Sittima, Álvaro](https://github.com/AGomezSittima) · [Namour Doughani, Dunia](https://github.com/Dunia30) · [Rivas Fernández, Alberto Alejandro](https://github.com/albertoarf13) · [Salvatierra Gutierrez, Johan Sebastian](https://github.com/dnet0)
 como parte del **Trabajo de Fin de Grado (TFG)** en la Universidad Complutense de Madrid (UCM).
 
-🔗 **Demo en línea / versión web:** [https://adme2.netlify.app/](https://adme2.netlify.app/)
+🔗 **Demo en línea / versión web**: [https://adme2.netlify.app/](https://adme2.netlify.app/)
+
+📄 **Memoria**: [AdaptaMaterialEscolar 2.0 - PDF](https://docta.ucm.es/rest/api/core/bitstreams/a2d55bf3-3972-430d-97ca-701f6e21af5c/content)
 
 ---
 
@@ -27,40 +29,29 @@ Esta versión 2.0 supone una mejora integral respecto a la primera versión del 
 
 ---
 
-## 👤 Mi contribución personal  
+## 👤 Trabajo Individual  
 
-Durante el desarrollo de este TFG, llevé a cabo diversas tareas tanto individuales como en equipo, agrupadas en las siguientes categorías:
+### Álvaro Gómez Sittima
+- Investigó herramientas y frameworks, participó en la captura de requisitos y en el diseño de la aplicación.
+- Implementó múltiples funcionalidades (huecos, sopa de letras, resumen, pictotraductor), componentes reutilizables y la integración de Tailwind, Prettier y ESLint.
+- Lideró QA proponiendo planes de prueba y corrigiendo errores, y redactó varias secciones de la memoria, incluyendo herramientas, funcionalidades y diseño.
 
-### 📘 Captura de requisitos  
-Participé en la definición y clasificación de los requisitos funcionales y no funcionales del proyecto, trabajando de forma conjunta con el equipo para documentar las necesidades de los usuarios.
+### Dunia Namour Doughani
+- Investigó sobre adaptación curricular y redactó la sección correspondiente, además de participar en la captura de requisitos y diseño.
+- Implementó verdadero/falso y leyenda de colores, contribuyó en la búsqueda de pictogramas y realizó plantillas y formularios para la evaluación.
+- Probó numerosas funcionalidades, elaboró planes de prueba y redactó secciones de la memoria como la estructura, React y partes de la metodología y arquitectura.
 
-### 🎨 Diseño de la aplicación  
-- Creé los primeros **diseños para la iteración competitiva**, explicados en el anexo de diseño.  
-- Junto a Álvaro, realicé los **diseños finales en Figma**, incluyendo la creación del **logo de la aplicación** y las propuestas de diseño final de la interfaz.  
+### Alberto Alejandro Rivas Fernández
+- Partició en el diseño de la aplicación e investigó sobre herramientas para exportación de documentos; implementó desarrollo, matemáticas con huecos y espacios para dibujar.
+- Corrigió errores tras pruebas y colaboró en la funcionalidad de búsqueda de pictogramas, QA de definiciones y leyenda de colores.
+- Redactó secciones de la memoria sobre la versión anterior del sistema, implementación de funcionalidades, diseños individuales y traducción de conclusiones.
 
-### 💻 Implementación  
-- Investigé e identifiqué **Slate.js** como framework de edición de texto más adecuado para el proyecto.  
-- Desarrollé un **prototipo de integración Slate + React** y propuse su adopción final.  
-- Implementé ejercicios de **definiciones** y **relacionar conceptos**, permitiendo edición dinámica a través de un **modal** y un sistema de **numeración automática**.  
-- Diseñé y programé **pautas reutilizables en formato SVG** y el **nodo Tablas**, con sus funciones de gestión y compatibilidad con otros módulos.  
-- Desarrollé **funcionalidades básicas del editor**, incluyendo listas, alineación, comportamiento de imágenes e iconos, y exportación a PDF.  
-- **Configuré y lancé el hosting** del proyecto.  
-- En colaboración con el equipo, trabajé en la **búsqueda de pictogramas**, la **pantalla de inicio** y la **abstracción del código**, logrando una base modular y mantenible.
+### Johan Sebastian Salvatierra Gutierrez
+- Propuso y prototipó Slate como editor, diseñó su iteración competitiva y elaboró los diseños finales junto al equipo.
+- Implementó definiciones, relacionar conceptos, tablas, funcionalidades del editor y configuró el hosting; investigó la exportación a PDF.
+- Realizó QA de varias funcionalidades y redactó secciones clave de la memoria sobre motivación, editor y Slate, objetivos, diseño final, arquitectura y conclusiones.
 
-### ⚙️ Metodología  
-- Documenté las **clases de servicio** utilizadas para el tablero **Kanban**.  
-- Colaboré en la redacción de la sección sobre **flujo de trabajo y políticas explícitas**, asegurando la organización y trazabilidad de tareas.
-
-### 🧪 QA (Aseguramiento de calidad)  
-- Corregí errores en funcionalidades de **definiciones**, **relacionar conceptos** y **exportar PDF**.  
-- Probé las funciones de **“generar resumen”** y **“desarrollo”**.  
-- Colaboré en la **redacción del plan de pruebas** para “verdadero o falso” y en la **refactorización de código** junto a Álvaro.
-
-### 📝 Memoria del TFG  
-- Redacté las secciones de **motivación**, **editor** (tipos de nodos e integración), y la parte dedicada a **Slate.js** dentro de las herramientas empleadas.  
-- Contribuí a los **objetivos**, **diseño final**, **arquitectura**, **implementación de búsqueda de pictogramas**, **evaluación**, **conclusiones**, **trabajo futuro**, y la **introducción en inglés**.  
-
-Estas aportaciones abarcan tanto la parte técnica como la documentación, y reflejan un enfoque integral que combina investigación, diseño, desarrollo, validación y comunicación de resultados.
+> Para más información, puedes acceder a la memoria del proyecto aquí: [AdaptaMaterialEscolar 2.0 - PDF](https://docta.ucm.es/rest/api/core/bitstreams/a2d55bf3-3972-430d-97ca-701f6e21af5c/content)
 
 ---
 
@@ -74,11 +65,14 @@ Estas aportaciones abarcan tanto la parte técnica como la documentación, y ref
 
 ---
 
-## 📸 Capturas y demo  
-Puedes ver la versión funcional del proyecto aquí:  
-👉 [https://adme2.netlify.app/](https://adme2.netlify.app/)
+## 📸 Capturas y demo
+<img width="1033" height="1033" alt="ADME2_Demo" src="https://github.com/user-attachments/assets/04f529c5-e83e-4fc0-b532-5c429cb6d613" />
+
+- Puedes ver la versión funcional del proyecto aquí: [https://adme2.netlify.app/](https://adme2.netlify.app/)
+
+> **Aviso**: Algunas funcionalidades de texto no están disponibles en la demo.
 
 ---
 
 ## 📌 Reconocimientos  
-Proyecto desarrollado como parte del TFG en la **Universidad Complutense de Madrid (UCM)**, bajo la supervisión de Francisco Gilmartín, Virginia y Hervás Ballesteros, Raquel y fruto del trabajo colaborativo con mis compañeros de equipo.
+Proyecto desarrollado como parte del TFG en la **Universidad Complutense de Madrid (UCM)**, bajo la supervisión de Francisco Gilmartín, Virginia y Hervás Ballesteros, Raquel.
